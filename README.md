@@ -63,7 +63,9 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 
 ### M
 
-- **This section is currently empty**
+- [:octocat: `Bliss Browser Mako`](https://github.com/seanpm2001/Bliss_Browser_Mako/)
+- [:octocat: `Bliss Browser MediaWiki (WikiText)`](https://github.com/seanpm2001/Bliss_Browser_MediaWiki/)
+- [:octocat: `Bliss Browser Markdown`](https://github.com/seanpm2001/Bliss_Browser_Markdown/)
 
 ### N
 
@@ -75,7 +77,7 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 
 ### P
 
-- **This section is currently empty**
+- [:octocat: `Bliss Browser PHP`](https://github.com/seanpm2001/Bliss_Browser_PHP/)
 
 ### Q
 
@@ -123,6 +125,98 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 
 ***
 
-**File version:** `1 (2023, Sunday, February 5th at 3:45 pm PST)`
+### File info
+
+<details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
+
+**File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
+
+**File version:** `2 (2023, Monday, February 6th at 4:11 pm PST)`
+
+**Line count (including blank lines and compiler line):** `223`
+
+**Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
+
+**Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
+
+**All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
+
+> **Note** _On 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 hour to 3:00 am._
+
+> **Note** **You may need special rendering support for the `<details>` HTML tag being used in this document**
+
+***
+
+<details><summary><p><b>Click/tap here to expand/collapse the file history for this file</b></p></summary>
+
+<details><summary><p><b>Version 1 (2023, Sunday, February 5th at 3:45 pm PST)</b></p></summary>
+
+- This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] Started the file
+- [x] Added the title section
+- [x] Added the `Language support` section
+- - [x] Added the `A` subsection
+- - [x] Added the `B` subsection
+- - [x] Added the `C` subsection
+- - [x] Added the `D` subsection
+- - [x] Added the `E` subsection
+- - [x] Added the `F` subsection
+- - [x] Added the `G` subsection
+- - [x] Added the `H` subsection
+- - [x] Added the `I` subsection
+- - [x] Added the `J` subsection
+- - [x] Added the `K` subsection
+- - [x] Added the `L` subsection
+- - [x] Added the `M` subsection
+- - [x] Added the `N` subsection
+- - [x] Added the `O` subsection
+- - [x] Added the `P` subsection
+- - [x] Added the `Q` subsection
+- - [x] Added the `R` subsection
+- - [x] Added the `S` subsection
+- - [x] Added the `T` subsection
+- - [x] Added the `U` subsection
+- - [x] Added the `V` subsection
+- - [x] Added the `W` subsection
+- - [x] Added the `X` subsection
+- - [x] Added the `Y` subsection
+- - [x] Added the `Z` subsection
+- [x] Added the file version stamp
+- [ ] No other changes in version 1
+
+</details>
+
+<details><summary><p><b>Version 2 (2023, Monday, February 6th at 4:11 pm PST)</b></p></summary>
+
+- This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] Updated the `Language support` section
+- - [x] Updated the `M` subsection to add Mako, Markdown, and MediaWiki/WikiText
+- - [x] Updated the `P` subsection to add PHP
+- [x] Removed the file version stamp in place of a file info section
+- [x] Added the `file info` section
+- - [x] Added the version number
+- - [x] Added the version date
+- - [x] Added the line count
+- [x] Added the `file history` section
+- - [x] Added an entry for version 1
+- - [x] Added an entry for version 2
+- [x] Added the footer 
+- [ ] No other changes in version 2
+
+</details>
+
+</details>
+
+***
+
+###### Footer
+
+You have reached the end of this file.
 
 ***
