@@ -92,10 +92,13 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 
 - [:octocat: `Bliss Browser SASS`](https://github.com/seanpm2001/Bliss_Browser_SASS/)
 - [:octocat: `Bliss Browser SCSS`](https://github.com/seanpm2001/Bliss_Browser_SCSS/)
+- [:octocat: `Bliss Browser SGML`](https://github.com/seanpm2001/Bliss_Browser_SGML/)
+- [:octocat: `Bliss Browser Smarty`](https://github.com/seanpm2001/Bliss_Browser_Smarty/)
+- [:octocat: `Bliss Browser Svelte`](https://github.com/seanpm2001/Bliss_Browser_Svelte/)
 
 ### T
 
-- **This section is currently empty**
+- [:octocat: `Bliss Browser TOML`](https://github.com/seanpm2001/Bliss_Browser_TOML/)
 
 ### U
 
@@ -133,9 +136,9 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `3 (2023, Tuesday, February 7th at 6:12 pm PST)`
+**File version:** `4 (2023, Wednesday, February 8th at 3:45 pm PST)`
 
-**Line count (including blank lines and compiler line):** `245`
+**Line count (including blank lines and compiler line):** `267`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -230,6 +233,25 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 3
 - [ ] No other changes in version 3
+
+</details>
+
+<details><summary><p><b>Version 4 (2023, Wednesday, February 8th at 3:45 pm PST)</b></p></summary>
+
+- This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] Updated the `Language support` section
+- - [x] Updated the `S` subsection to include SGML, Smarty, and Svelte
+- - [x] Updated the `T` subsection to include TOML
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 4
+- [ ] No other changes in version 4
 
 </details>
 
