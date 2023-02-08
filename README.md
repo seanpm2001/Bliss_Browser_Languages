@@ -78,6 +78,7 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 ### P
 
 - [:octocat: `Bliss Browser PHP`](https://github.com/seanpm2001/Bliss_Browser_PHP/)
+- [:octocat: `Bliss Browser Processing.js`](https://github.com/seanpm2001/Bliss_Browser_Processing.js/)
 
 ### Q
 
@@ -85,11 +86,12 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 
 ### R
 
-- **This section is currently empty**
+- [:octocat: `Bliss Browser Ruby`](https://github.com/seanpm2001/Bliss_Browser_Ruby/)
 
 ### S
 
-- **This section is currently empty**
+- [:octocat: `Bliss Browser SASS`](https://github.com/seanpm2001/Bliss_Browser_SASS/)
+- [:octocat: `Bliss Browser SCSS`](https://github.com/seanpm2001/Bliss_Browser_SCSS/)
 
 ### T
 
@@ -131,9 +133,9 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `2 (2023, Monday, February 6th at 4:11 pm PST)`
+**File version:** `3 (2023, Tuesday, February 7th at 6:12 pm PST)`
 
-**Line count (including blank lines and compiler line):** `223`
+**Line count (including blank lines and compiler line):** `245`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -208,6 +210,26 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 - - [x] Added an entry for version 2
 - [x] Added the footer 
 - [ ] No other changes in version 2
+
+</details>
+
+<details><summary><p><b>Version 3 (2023, Tuesday, February 7th at 6:12 pm PST)</b></p></summary>
+
+- This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] Updated the `Language support` section
+- - [x] Updated the `P` subsection to include Processing.js
+- - [x] Updated the `R` subsection to include Ruby
+- - [x] Updated the `S` subsection to include SASS and SCSS
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 3
+- [ ] No other changes in version 3
 
 </details>
 
