@@ -99,6 +99,8 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 ### T
 
 - [:octocat: `Bliss Browser TOML`](https://github.com/seanpm2001/Bliss_Browser_TOML/)
+- [:octocat: `Bliss Browser Twig`](https://github.com/seanpm2001/Bliss_Browser_Twig/)
+- [:octocat: `Bliss Browser TypeScript`](https://github.com/seanpm2001/Bliss_Browser_TypeScript/)
 
 ### U
 
@@ -110,11 +112,11 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 
 ### W
 
-- **This section is currently empty**
+- [:octocat: `Bliss Browser WebAssembly`](https://github.com/seanpm2001/Bliss_Browser_WebAssembly/)
 
 ### X
 
-- **This section is currently empty**
+- [:octocat: `Bliss Browser XML`](https://github.com/seanpm2001/Bliss_Browser_XML/)
 
 ### Y
 
@@ -136,9 +138,9 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `4 (2023, Wednesday, February 8th at 3:45 pm PST)`
+**File version:** `5 (2023, Thursday, February 9th at 1:34 pm PST)`
 
-**Line count (including blank lines and compiler line):** `267`
+**Line count (including blank lines and compiler line):** `289`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -252,6 +254,26 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 4
 - [ ] No other changes in version 4
+
+</details>
+
+<details><summary><p><b>Version 5 (2023, Thursday, February 9th at 1:34 pm PST)</b></p></summary>
+
+- This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] Updated the `Language support` section
+- - [x] Updated the `T` subsection to include Twig and TypeScript
+- - [x] Updated the `W` subsection to include WebAssembly
+- - [x] Updated the `X` subsection to include XML
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 5
+- [ ] No other changes in version 5
 
 </details>
 
