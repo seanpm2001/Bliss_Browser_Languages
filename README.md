@@ -120,7 +120,7 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 
 ### Y
 
-- **This section is currently empty**
+- [:octocat: `Bliss Browser YAML`](https://github.com/seanpm2001/Bliss_Browser_YAML/)
 
 ### Z
 
@@ -138,9 +138,9 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `5 (2023, Thursday, February 9th at 1:34 pm PST)`
+**File version:** `6 (2023, Friday, February 10th at 5:28 pm PST)`
 
-**Line count (including blank lines and compiler line):** `289`
+**Line count (including blank lines and compiler line):** `307`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -274,6 +274,24 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 5
 - [ ] No other changes in version 5
+
+</details>
+
+details><summary><p><b>Version 6 (2023, Friday, February 10th at 5:28 pm PST)</b></p></summary>
+
+- This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] Updated the `Language support` section
+- - [x] Updated the `Y` subsection to include YAML
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 6
+- [ ] No other changes in version 6
 
 </details>
 
