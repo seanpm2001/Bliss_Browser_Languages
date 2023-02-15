@@ -9,10 +9,11 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 
 ### A
 
-- [:octocat: `ActionScript`](https://github.com/seanpm2001/Bliss_Browser_ActionScript/)
-- [:octocat: `Action Server Pages (ASP)`](https://github.com/seanpm2001/Bliss_Browser_ActionServerPages/)
-- [:octocat: `Action Server Pages .NET (ASP.NET)`](https://github.com/seanpm2001/Bliss_Browser_ActionServerPagesDotNET/)
+- [:octocat: `Bliss Browser ActionScript`](https://github.com/seanpm2001/Bliss_Browser_ActionScript/)
+- [:octocat: `Bliss Browser Action Server Pages (ASP)`](https://github.com/seanpm2001/Bliss_Browser_ActionServerPages/)
+- [:octocat: `Bliss Browser Action Server Pages .NET (ASP.NET)`](https://github.com/seanpm2001/Bliss_Browser_ActionServerPagesDotNET/)
 - [:octocat: `Bliss Browser Astro`](https://github.com/seanpm2001/Bliss_Browser_Astro/)
+- [:octocat: `Bliss Browser AngelScript`](https://github.com/seanpm2001/Bliss_Browser_AngelScript/)
 
 ### B
 
@@ -53,6 +54,8 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 
 - [:octocat: `Bliss Browser JavaScript`](https://github.com/seanpm2001/Bliss_Browser_JavaScript/)
 - [:octocat: `Bliss Browser Jinja`](https://github.com/seanpm2001/Bliss_Browser_Jinja/)
+- [:octocat: `Bliss Browser JSON5`](https://github.com/seanpm2001/Bliss_Browser_JSON5/)
+- [:octocat: `Bliss Browser JavaScript++`](https://github.com/seanpm2001/Bliss_Browser_JavaScript-Plus-Plus/)
 
 ### K
 
@@ -67,6 +70,7 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 - [:octocat: `Bliss Browser Mako`](https://github.com/seanpm2001/Bliss_Browser_Mako/)
 - [:octocat: `Bliss Browser MediaWiki (WikiText)`](https://github.com/seanpm2001/Bliss_Browser_MediaWiki/)
 - [:octocat: `Bliss Browser Markdown`](https://github.com/seanpm2001/Bliss_Browser_Markdown/)
+- [:octocat: `Bliss Browser Metal`](https://github.com/seanpm2001/Bliss_Browser_Metal/)
 
 ### N
 
@@ -139,9 +143,9 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `7 (2023, Monday, February 13th at 9:08 pm PST)`
+**File version:** `8 (2023, Tuesday, February 14th at 4:57 pm PST)`
 
-**Line count (including blank lines and compiler line):** `327`
+**Line count (including blank lines and compiler line):** `351`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -312,6 +316,26 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 7
 - [ ] No other changes in version 7
+
+</details>
+
+<details><summary><p><b>Version 8 (2023, Tuesday, February 14th at 4:57 pm PST)</b></p></summary>
+
+- This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] Updated the `Language support` section
+- - [x] Updated the `A` subsection to include AngelScript
+- - [x] Updated the `J` subsection to include JSON5 and JS++
+- - [x] Updated the `M` subsection to include Metal
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 8
+- [ ] No other changes in version 8
 
 </details>
 
