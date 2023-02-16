@@ -14,6 +14,7 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 - [:octocat: `Bliss Browser Action Server Pages .NET (ASP.NET)`](https://github.com/seanpm2001/Bliss_Browser_ActionServerPagesDotNET/)
 - [:octocat: `Bliss Browser Astro`](https://github.com/seanpm2001/Bliss_Browser_Astro/)
 - [:octocat: `Bliss Browser AngelScript`](https://github.com/seanpm2001/Bliss_Browser_AngelScript/)
+- [:octocat: `Bliss Browser AssemblyScript`](https://github.com/seanpm2001/Bliss_Browser_AssemblyScript/)
 
 ### B
 
@@ -64,6 +65,7 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 ### L
 
 - [:octocat: `Bliss Browser Less`](https://github.com/seanpm2001/Bliss_Browser_Less/)
+- [:octocat: `Bliss Browser LiveScript`](https://github.com/seanpm2001/Bliss_Browser_LiveScript/)
 
 ### M
 
@@ -92,6 +94,7 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 ### R
 
 - [:octocat: `Bliss Browser Ruby`](https://github.com/seanpm2001/Bliss_Browser_Ruby/)
+- [:octocat: `Bliss Browser Roff`](https://github.com/seanpm2001/Bliss_Browser_Roff/)
 
 ### S
 
@@ -122,6 +125,7 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 ### X
 
 - [:octocat: `Bliss Browser XML`](https://github.com/seanpm2001/Bliss_Browser_XML/)
+- [:octocat: `Bliss Browser XUL`](https://github.com/seanpm2001/Bliss_Browser_XUL/)
 
 ### Y
 
@@ -143,9 +147,9 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `8 (2023, Tuesday, February 14th at 4:57 pm PST)`
+**File version:** `9 (2023, Wednesday, February 15th at 7:03 pm PST)`
 
-**Line count (including blank lines and compiler line):** `351`
+**Line count (including blank lines and compiler line):** `376`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -336,6 +340,27 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 8
 - [ ] No other changes in version 8
+
+</details>
+
+<details><summary><p><b>Version 9 (2023, Wednesday, February 15th at 7:03 pm PST)</b></p></summary>
+
+- This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] Updated the `Language support` section
+- - [x] Updated the `A` subsection to include AssemblyScript
+- - [x] Updated the `L` subsection to include LiveScript
+- - [x] Updated the `R` subsection to include Roff
+- - [x] Updated the `x` subsection to include XUL
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 9
+- [ ] No other changes in version 9
 
 </details>
 
