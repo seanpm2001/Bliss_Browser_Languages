@@ -24,6 +24,7 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 
 ### C
 
+- [:octocat: `Bliss Browser CartoCSS`](https://github.com/seanpm2001/Bliss_Browser_CartoCSS/)
 - [:octocat: `Bliss Browser Crystal`](https://github.com/seanpm2001/Bliss_Browser_Crystal/)
 - [:octocat: `Bliss Browser CSS`](https://github.com/seanpm2001/Bliss_Browser_CSS/)
 
@@ -55,7 +56,10 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 
 - [:octocat: `Bliss Browser JavaScript`](https://github.com/seanpm2001/Bliss_Browser_JavaScript/)
 - [:octocat: `Bliss Browser Jinja`](https://github.com/seanpm2001/Bliss_Browser_Jinja/)
+- [:octocat: `Bliss Browser JScript`](https://github.com/seanpm2001/Bliss_Browser_JScript/)
+- [:octocat: `Bliss Browser JScript.NET`](https://github.com/seanpm2001/Bliss_Browser_JScript.NET/)
 - [:octocat: `Bliss Browser JSON5`](https://github.com/seanpm2001/Bliss_Browser_JSON5/)
+- [:octocat: `Bliss Browser J#`](https://github.com/seanpm2001/Bliss_Browser_JSharp/)
 - [:octocat: `Bliss Browser JavaScript++`](https://github.com/seanpm2001/Bliss_Browser_JavaScript-Plus-Plus/)
 
 ### K
@@ -147,9 +151,9 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `9 (2023, Wednesday, February 15th at 7:03 pm PST)`
+**File version:** `10 (2023, Thur, February 16th at 7:07 pm PST)`
 
-**Line count (including blank lines and compiler line):** `376`
+**Line count (including blank lines and compiler line):** `399`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -361,6 +365,25 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 9
 - [ ] No other changes in version 9
+
+</details>
+
+<details><summary><p><b>Version 10 (2023, Thursday, February 16th at 7:07 pm PST)</b></p></summary>
+
+- This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] Updated the `Language support` section
+- - [x] Updated the `C` subsection to include CartoCSS
+- - [x] Updated the `J` subsection to include JScript, JScript.NET, and J#
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 10
+- [ ] No other changes in version 10
 
 </details>
 
