@@ -46,6 +46,8 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 
 ### H
 
+- [:octocat: `Bliss Browser Hack`](https://github.com/seanpm2001/Bliss_Browser_Hack/)
+- [:octocat: `Bliss Browser Haml`](https://github.com/seanpm2001/Bliss_Browser_HAML/)
 - [:octocat: `Bliss Browser HTML`](https://github.com/seanpm2001/Bliss_Browser_HTML/)
 
 ### I
@@ -90,6 +92,7 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 
 - [:octocat: `Bliss Browser PHP`](https://github.com/seanpm2001/Bliss_Browser_PHP/)
 - [:octocat: `Bliss Browser Processing.js`](https://github.com/seanpm2001/Bliss_Browser_Processing.js/)
+- [:octocat: `Bliss Browser Pug`](https://github.com/seanpm2001/Bliss_Browser_Pug/)
 
 ### Q
 
@@ -106,6 +109,7 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 - [:octocat: `Bliss Browser SCSS`](https://github.com/seanpm2001/Bliss_Browser_SCSS/)
 - [:octocat: `Bliss Browser SGML`](https://github.com/seanpm2001/Bliss_Browser_SGML/)
 - [:octocat: `Bliss Browser Smarty`](https://github.com/seanpm2001/Bliss_Browser_Smarty/)
+- [:octocat: `Bliss Browser StrictYAML`](https://github.com/seanpm2001/Bliss_Browser_StrictYAML/)
 - [:octocat: `Bliss Browser Svelte`](https://github.com/seanpm2001/Bliss_Browser_Svelte/)
 
 ### T
@@ -151,9 +155,9 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `10 (2023, Thur, February 16th at 7:07 pm PST)`
+**File version:** `11 (2023, Friday, February 17th at 7:49 pm PST)`
 
-**Line count (including blank lines and compiler line):** `399`
+**Line count (including blank lines and compiler line):** `423`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -384,6 +388,26 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 10
 - [ ] No other changes in version 10
+
+</details>
+
+<details><summary><p><b>Version 11 (2023, Friday, February 17th at 7:49 pm PST)</b></p></summary>
+
+- This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] Updated the `Language support` section
+- - [x] Updated the `H` subsection to include Hack and Haml
+- - [x] Updated the `P` subsection to include Pug
+- - [x] Updated the `S` subsection to include StrictYAML
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 11
+- [ ] No other changes in version 11
 
 </details>
 
