@@ -47,6 +47,7 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 ### H
 
 - [:octocat: `Bliss Browser Hack`](https://github.com/seanpm2001/Bliss_Browser_Hack/)
+- [:octocat: `Bliss Browser HandleBars`](https://github.com/seanpm2001/Bliss_Browser_Handlebars/)
 - [:octocat: `Bliss Browser Haml`](https://github.com/seanpm2001/Bliss_Browser_HAML/)
 - [:octocat: `Bliss Browser HTML`](https://github.com/seanpm2001/Bliss_Browser_HTML/)
 
@@ -71,6 +72,7 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 ### L
 
 - [:octocat: `Bliss Browser Less`](https://github.com/seanpm2001/Bliss_Browser_Less/)
+- [:octocat: `Bliss Browser Liquid`](https://github.com/seanpm2001/Bliss_Browser_Liquid/)
 - [:octocat: `Bliss Browser LiveScript`](https://github.com/seanpm2001/Bliss_Browser_LiveScript/)
 
 ### M
@@ -90,7 +92,11 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 
 ### P
 
+<!-- Pod6 when? !-->
+
+- [:octocat: `Bliss Browser PEG.js`](https://github.com/seanpm2001/Bliss_Browser_Peg.js/)
 - [:octocat: `Bliss Browser PHP`](https://github.com/seanpm2001/Bliss_Browser_PHP/)
+- [:octocat: `Bliss Browser Pod`](https://github.com/seanpm2001/Bliss_Browser_Pod/)
 - [:octocat: `Bliss Browser Processing.js`](https://github.com/seanpm2001/Bliss_Browser_Processing.js/)
 - [:octocat: `Bliss Browser Pug`](https://github.com/seanpm2001/Bliss_Browser_Pug/)
 
@@ -155,9 +161,9 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `11 (2023, Friday, February 17th at 7:49 pm PST)`
+**File version:** `12 (2023, Saturday, February 18th at 5:35 pm PST)`
 
-**Line count (including blank lines and compiler line):** `423`
+**Line count (including blank lines and compiler line):** `449`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -408,6 +414,26 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 11
 - [ ] No other changes in version 11
+
+</details>
+
+<details><summary><p><b>Version 12 (2023, Saturday, February 18th at 5:35 pm PST)</b></p></summary>
+
+- This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] Updated the `Language support` section
+- - [x] Updated the `H` subsection to include Handlebars
+- - [x] Updated the `L` subsection to include Liquid
+- - [x] Updated the `P` subsection to include PEG.js and Pod
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 12
+- [ ] No other changes in version 12
 
 </details>
 
