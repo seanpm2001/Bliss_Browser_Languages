@@ -42,7 +42,7 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 
 ### G
 
-- **This section is currently empty**
+- [:octocat: `Bliss Browser Google Apps Script`](https://github.com/seanpm2001/Bliss_Browser_Google-Apps-Script/)
 
 ### H
 
@@ -50,6 +50,7 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 - [:octocat: `Bliss Browser HandleBars`](https://github.com/seanpm2001/Bliss_Browser_Handlebars/)
 - [:octocat: `Bliss Browser Haml`](https://github.com/seanpm2001/Bliss_Browser_HAML/)
 - [:octocat: `Bliss Browser HTML`](https://github.com/seanpm2001/Bliss_Browser_HTML/)
+- [:octocat: `Bliss Browser HXML`](https://github.com/seanpm2001/Bliss_Browser_HXML/)
 
 ### I
 
@@ -81,6 +82,7 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 - [:octocat: `Bliss Browser MediaWiki (WikiText)`](https://github.com/seanpm2001/Bliss_Browser_MediaWiki/)
 - [:octocat: `Bliss Browser Markdown`](https://github.com/seanpm2001/Bliss_Browser_Markdown/)
 - [:octocat: `Bliss Browser Metal`](https://github.com/seanpm2001/Bliss_Browser_Metal/)
+- [:octocat: `Bliss Browser Mustache`](https://github.com/seanpm2001/Bliss_Browser_Mustache/)
 
 ### N
 
@@ -130,7 +132,7 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 
 ### V
 
-- **This section is currently empty**
+- [:octocat: `Bliss Browser Vue.js`](https://github.com/seanpm2001/Bliss_Browser_Vue.js/)
 
 ### W
 
@@ -153,6 +155,12 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 
 > **Note** **This list is incomplete**
 
+**Statistics (as of 2023, Sunday, February 19th at 5:10 pm PST)**
+
+- **Populated section count:** `19`
+- **Empty section count:** `7`
+- **Total languages listed:** `57`
+
 ***
 
 ### File info
@@ -161,9 +169,9 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `12 (2023, Saturday, February 18th at 5:35 pm PST)`
+**File version:** `13 (2023, Sunday, February 19th at 5:10 pm PST)`
 
-**Line count (including blank lines and compiler line):** `449`
+**Line count (including blank lines and compiler line):** `478`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -434,6 +442,27 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 12
 - [ ] No other changes in version 12
+
+</details>
+
+<details><summary><p><b>Version 13 (2023, Sunday, February 19th at 5:10 pm PST)</b></p></summary>
+
+- This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] Updated the `Language support` section
+- - [x] Updated the `G` subsection to include Google Apps Script
+- - [x] Updated the `H` subsection to include HXML
+- - [x] Updated the `M` subsection to include Mustache
+- - [x] Updated the `V` subsection to include Vue.js
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 13
+- [ ] No other changes in version 13
 
 </details>
 
