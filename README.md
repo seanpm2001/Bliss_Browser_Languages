@@ -25,6 +25,7 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 ### C
 
 - [:octocat: `Bliss Browser CartoCSS`](https://github.com/seanpm2001/Bliss_Browser_CartoCSS/)
+- [:octocat: `Bliss Browser CoffeeScript`](https://github.com/seanpm2001/Bliss_Browser_CoffeeScript/)
 - [:octocat: `Bliss Browser Crystal`](https://github.com/seanpm2001/Bliss_Browser_Crystal/)
 - [:octocat: `Bliss Browser CSS`](https://github.com/seanpm2001/Bliss_Browser_CSS/)
 
@@ -38,10 +39,11 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 
 ### F
 
-- **This section is currently empty**
+- [:octocat: `Bliss Browser FreeMarker`](https://github.com/seanpm2001/Bliss_Browser_FreeMarker/)
 
 ### G
 
+- [:octocat: `Bliss Browser Gherkin`](https://github.com/seanpm2001/Bliss_Browser_Gherkin/)
 - [:octocat: `Bliss Browser Google Apps Script`](https://github.com/seanpm2001/Bliss_Browser_Google-Apps-Script/)
 
 ### H
@@ -63,6 +65,7 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 - [:octocat: `Bliss Browser JScript`](https://github.com/seanpm2001/Bliss_Browser_JScript/)
 - [:octocat: `Bliss Browser JScript.NET`](https://github.com/seanpm2001/Bliss_Browser_JScript.NET/)
 - [:octocat: `Bliss Browser JSON5`](https://github.com/seanpm2001/Bliss_Browser_JSON5/)
+- [:octocat: `Bliss Browser Jsonnet`](https://github.com/seanpm2001/Bliss_Browser_Jsonnet/)
 - [:octocat: `Bliss Browser J#`](https://github.com/seanpm2001/Bliss_Browser_JSharp/)
 - [:octocat: `Bliss Browser JavaScript++`](https://github.com/seanpm2001/Bliss_Browser_JavaScript-Plus-Plus/)
 
@@ -155,11 +158,11 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 
 > **Note** **This list is incomplete**
 
-**Statistics (as of 2023, Sunday, February 19th at 5:10 pm PST)**
+**Statistics (as of 2023, Monday, February 20th at 5:32 pm PST)**
 
-- **Populated section count:** `19`
-- **Empty section count:** `7`
-- **Total languages listed:** `57`
+- **Populated section count:** `20`
+- **Empty section count:** `6`
+- **Total languages listed:** `61`
 
 ***
 
@@ -169,9 +172,9 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `13 (2023, Sunday, February 19th at 5:10 pm PST)`
+**File version:** `14 (2023, Monday, February 20th at 5:32 pm PST)`
 
-**Line count (including blank lines and compiler line):** `478`
+**Line count (including blank lines and compiler line):** `502`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -463,6 +466,27 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 13
 - [ ] No other changes in version 13
+
+</details>
+
+<details><summary><p><b>Version 14 (2023, Monday, February 20th at 5:32 pm PST)</b></p></summary>
+
+- This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] Updated the `Language support` section
+- - [x] Updated the `C` subsection to include CoffeeScript
+- - [x] Updated the `F` subsection to include FreeMarker
+- - [x] Updated the `G` subsection to include Gherkin
+- - [x] Updated the `J` subsection to include Jsonnet
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 14
+- [ ] No other changes in version 14
 
 </details>
 
