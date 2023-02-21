@@ -89,6 +89,7 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 
 ### N
 
+- [:octocat: `Bliss Browser NGinx`](https://github.com/seanpm2001/Bliss_Browser_NGinx/)
 - [:octocat: `Bliss Browser Nunjucks`](https://github.com/seanpm2001/Bliss_Browser_Nunjucks/)
 
 ### O
@@ -111,6 +112,9 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 
 ### R
 
+- [:octocat: `Bliss Browser Reason`](https://github.com/seanpm2001/Bliss_Browser_Reason/)
+- [:octocat: `Bliss Browser ReasonML`](https://github.com/seanpm2001/Bliss_Browser_ReasonML/)
+- [:octocat: `Bliss Browser ReScript`](https://github.com/seanpm2001/Bliss_Browser_ReScript/)
 - [:octocat: `Bliss Browser Ruby`](https://github.com/seanpm2001/Bliss_Browser_Ruby/)
 - [:octocat: `Bliss Browser Roff`](https://github.com/seanpm2001/Bliss_Browser_Roff/)
 
@@ -158,11 +162,11 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 
 > **Note** **This list is incomplete**
 
-**Statistics (as of 2023, Monday, February 20th at 5:32 pm PST)**
+**Statistics (as of 2023, Tuesday, February 21st at 1:30 pm PST)**
 
 - **Populated section count:** `20`
 - **Empty section count:** `6`
-- **Total languages listed:** `61`
+- **Total languages listed:** `65`
 
 ***
 
@@ -172,9 +176,9 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `14 (2023, Monday, February 20th at 5:32 pm PST)`
+**File version:** `15 (2023, Tuesday, February 21st at 1:30 pm PST)`
 
-**Line count (including blank lines and compiler line):** `502`
+**Line count (including blank lines and compiler line):** `525`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -487,6 +491,25 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 14
 - [ ] No other changes in version 14
+
+</details>
+
+<details><summary><p><b>Version 15 (2023, Tuesday, February 21st at 1:30 pm PST)</b></p></summary>
+
+- This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] Updated the `Language support` section
+- - [x] Updated the `N` subsection to include NGinx
+- - [x] Updated the `R` subsection to include Reason, ReasonML, and ReScript
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 15
+- [ ] No other changes in version 15
 
 </details>
 
