@@ -35,6 +35,7 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 
 ### E
 
+- [:octocat: `Bliss Browser ECMAScript`](https://github.com/seanpm2001/Bliss_Browser_ECMAScript/)
 - [:octocat: `Bliss Browser Elm`](https://github.com/seanpm2001/Bliss_Browser_Elm/)
 
 ### F
@@ -114,6 +115,7 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 
 - [:octocat: `Bliss Browser Reason`](https://github.com/seanpm2001/Bliss_Browser_Reason/)
 - [:octocat: `Bliss Browser ReasonML`](https://github.com/seanpm2001/Bliss_Browser_ReasonML/)
+- [:octocat: `Bliss Browser reStructuredText`](https://github.com/seanpm2001/Bliss_Browser_reStructuredText/)
 - [:octocat: `Bliss Browser ReScript`](https://github.com/seanpm2001/Bliss_Browser_ReScript/)
 - [:octocat: `Bliss Browser Ruby`](https://github.com/seanpm2001/Bliss_Browser_Ruby/)
 - [:octocat: `Bliss Browser Roff`](https://github.com/seanpm2001/Bliss_Browser_Roff/)
@@ -123,12 +125,14 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 - [:octocat: `Bliss Browser SASS`](https://github.com/seanpm2001/Bliss_Browser_SASS/)
 - [:octocat: `Bliss Browser SCSS`](https://github.com/seanpm2001/Bliss_Browser_SCSS/)
 - [:octocat: `Bliss Browser SGML`](https://github.com/seanpm2001/Bliss_Browser_SGML/)
+- [:octocat: `Bliss Browser Slim`](https://github.com/seanpm2001/Bliss_Browser_Slim/)
 - [:octocat: `Bliss Browser Smarty`](https://github.com/seanpm2001/Bliss_Browser_Smarty/)
 - [:octocat: `Bliss Browser StrictYAML`](https://github.com/seanpm2001/Bliss_Browser_StrictYAML/)
 - [:octocat: `Bliss Browser Svelte`](https://github.com/seanpm2001/Bliss_Browser_Svelte/)
 
 ### T
 
+- [:octocat: `Bliss Browser Thrift`](https://github.com/seanpm2001/Bliss_Browser_Thrift/)
 - [:octocat: `Bliss Browser TOML`](https://github.com/seanpm2001/Bliss_Browser_TOML/)
 - [:octocat: `Bliss Browser Twig`](https://github.com/seanpm2001/Bliss_Browser_Twig/)
 - [:octocat: `Bliss Browser TypeScript`](https://github.com/seanpm2001/Bliss_Browser_TypeScript/)
@@ -166,7 +170,7 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 
 - **Populated section count:** `20`
 - **Empty section count:** `6`
-- **Total languages listed:** `65`
+- **Total languages listed:** `69`
 
 ***
 
@@ -176,9 +180,9 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `15 (2023, Tuesday, February 21st at 1:30 pm PST)`
+**File version:** `16 (2023, Wednesday, February 22nd at 7:20 pm PST)`
 
-**Line count (including blank lines and compiler line):** `525`
+**Line count (including blank lines and compiler line):** `550`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -510,6 +514,27 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 15
 - [ ] No other changes in version 15
+
+</details>
+
+<details><summary><p><b>Version 16 (2023, Wednesday, February 22nd at 7:20 pm PST)</b></p></summary>
+
+- This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] Updated the `Language support` section
+- - [x] Updated the `E` subsection to include ECMAScript
+- - [x] Updated the `R` subsection to include ReStructuredText
+- - [x] Updated the `S` subsection to include Slim
+- - [x] Updated the `T` subsection to include Thrift
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 16
+- [ ] No other changes in version 16
 
 </details>
 
