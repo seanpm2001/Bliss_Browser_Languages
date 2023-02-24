@@ -19,6 +19,8 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 ### B
 
 - [:octocat: `Bliss Browser Blade`](https://github.com/seanpm2001/Bliss_Browser_Blade/)
+- [:octocat: `Bliss Browser Bicep`](https://github.com/seanpm2001/Bliss_Browser_Bicep/)
+- [:octocat: `Bliss Browser Bikeshed`](https://github.com/seanpm2001/Bliss_Browser_Bikeshed/)
 - [:octocat: `Bliss Browser BrightScript`](https://github.com/seanpm2001/Bliss_Browser_BrightScript/)
 - [:octocat: `Bliss Browser BrighterScript`](https://github.com/seanpm2001/Bliss_Browser_BrighterScript/)
 
@@ -28,6 +30,7 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 - [:octocat: `Bliss Browser CoffeeScript`](https://github.com/seanpm2001/Bliss_Browser_CoffeeScript/)
 - [:octocat: `Bliss Browser Crystal`](https://github.com/seanpm2001/Bliss_Browser_Crystal/)
 - [:octocat: `Bliss Browser CSS`](https://github.com/seanpm2001/Bliss_Browser_CSS/)
+- [:octocat: `Bliss Browser CSV`](https://github.com/seanpm2001/Bliss_Browser_CSV/)
 
 ### D
 
@@ -99,13 +102,14 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 
 ### P
 
-<!-- Pod6 when? !-->
+<!-- Pod6 when? (It has been planned, this note will be removed the next time I come across the P section) !-->
 
 - [:octocat: `Bliss Browser PEG.js`](https://github.com/seanpm2001/Bliss_Browser_Peg.js/)
 - [:octocat: `Bliss Browser PHP`](https://github.com/seanpm2001/Bliss_Browser_PHP/)
 - [:octocat: `Bliss Browser Pod`](https://github.com/seanpm2001/Bliss_Browser_Pod/)
 - [:octocat: `Bliss Browser Processing.js`](https://github.com/seanpm2001/Bliss_Browser_Processing.js/)
 - [:octocat: `Bliss Browser Pug`](https://github.com/seanpm2001/Bliss_Browser_Pug/)
+- [:octocat: `Bliss Browser PureScript`](https://github.com/seanpm2001/Bliss_Browser_PureScript/)
 
 ### Q
 
@@ -166,11 +170,11 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 
 > **Note** **This list is incomplete**
 
-**Statistics (as of 2023, Tuesday, February 21st at 1:30 pm PST)**
+**Statistics (as of 2023, Thursday, February 23rd at 7:21 pm PST)**
 
 - **Populated section count:** `20`
 - **Empty section count:** `6`
-- **Total languages listed:** `69`
+- **Total languages listed:** `73`
 
 ***
 
@@ -180,9 +184,9 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `16 (2023, Wednesday, February 22nd at 7:20 pm PST)`
+**File version:** `17 (2023, Thursday, February 23rd at 7:21 pm PST)`
 
-**Line count (including blank lines and compiler line):** `550`
+**Line count (including blank lines and compiler line):** `574`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -535,6 +539,26 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 16
 - [ ] No other changes in version 16
+
+</details>
+
+<details><summary><p><b>Version 17 (2023, Thursday, February 23rd at 7:21 pm PST)</b></p></summary>
+
+- This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] Updated the `Language support` section
+- - [x] Updated the `B` subsection to include Bicep and Bikeshed
+- - [x] Updated the `C` subsection to include CSV
+- - [x] Updated the `P` subsection to include PureScript
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 17
+- [ ] No other changes in version 17
 
 </details>
 
