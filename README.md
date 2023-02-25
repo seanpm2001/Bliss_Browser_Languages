@@ -27,6 +27,7 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 ### C
 
 - [:octocat: `Bliss Browser CartoCSS`](https://github.com/seanpm2001/Bliss_Browser_CartoCSS/)
+- [:octocat: `Bliss Browser Clojure`](https://github.com/seanpm2001/Bliss_Browser_Clojure/)
 - [:octocat: `Bliss Browser CoffeeScript`](https://github.com/seanpm2001/Bliss_Browser_CoffeeScript/)
 - [:octocat: `Bliss Browser Crystal`](https://github.com/seanpm2001/Bliss_Browser_Crystal/)
 - [:octocat: `Bliss Browser CSS`](https://github.com/seanpm2001/Bliss_Browser_CSS/)
@@ -55,8 +56,11 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 - [:octocat: `Bliss Browser Hack`](https://github.com/seanpm2001/Bliss_Browser_Hack/)
 - [:octocat: `Bliss Browser HandleBars`](https://github.com/seanpm2001/Bliss_Browser_Handlebars/)
 - [:octocat: `Bliss Browser Haml`](https://github.com/seanpm2001/Bliss_Browser_HAML/)
+- [:octocat: `Bliss Browser HCL`](https://github.com/seanpm2001/Bliss_Browser_HCL/)
 - [:octocat: `Bliss Browser HTML`](https://github.com/seanpm2001/Bliss_Browser_HTML/)
 - [:octocat: `Bliss Browser HXML`](https://github.com/seanpm2001/Bliss_Browser_HXML/)
+- [:octocat: `Bliss Browser Hy`](https://github.com/seanpm2001/Bliss_Browser_Hy/)
+- [:octocat: `Bliss Browser HyPhy`](https://github.com/seanpm2001/Bliss_Browser_HyPhy/)
 
 ### I
 
@@ -170,11 +174,11 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 
 > **Note** **This list is incomplete**
 
-**Statistics (as of 2023, Thursday, February 23rd at 7:21 pm PST)**
+**Statistics (as of 2023, Friday, February 24th at 7:29 pm PST)**
 
 - **Populated section count:** `20`
 - **Empty section count:** `6`
-- **Total languages listed:** `73`
+- **Total languages listed:** `77`
 
 ***
 
@@ -184,9 +188,9 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `17 (2023, Thursday, February 23rd at 7:21 pm PST)`
+**File version:** `18 (2023, Friday, February 24th at 7:29 pm PST)`
 
-**Line count (including blank lines and compiler line):** `574`
+**Line count (including blank lines and compiler line):** `597`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -559,6 +563,25 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 17
 - [ ] No other changes in version 17
+
+</details>
+
+<details><summary><p><b>Version 18 (2023, Friday, February 24th at 7:29 pm PST)</b></p></summary>
+
+- This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] Updated the `Language support` section
+- - [x] Updated the `C` subsection to include Clojure
+- - [x] Updated the `H` subsection to include HCL, Hy, and HyPhy
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 18
+- [ ] No other changes in version 18
 
 </details>
 
