@@ -68,13 +68,14 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 
 ### J
 
+- [:octocat: `Bliss Browser J#`](https://github.com/seanpm2001/Bliss_Browser_JSharp/)
 - [:octocat: `Bliss Browser JavaScript`](https://github.com/seanpm2001/Bliss_Browser_JavaScript/)
 - [:octocat: `Bliss Browser Jinja`](https://github.com/seanpm2001/Bliss_Browser_Jinja/)
 - [:octocat: `Bliss Browser JScript`](https://github.com/seanpm2001/Bliss_Browser_JScript/)
 - [:octocat: `Bliss Browser JScript.NET`](https://github.com/seanpm2001/Bliss_Browser_JScript.NET/)
 - [:octocat: `Bliss Browser JSON5`](https://github.com/seanpm2001/Bliss_Browser_JSON5/)
 - [:octocat: `Bliss Browser Jsonnet`](https://github.com/seanpm2001/Bliss_Browser_Jsonnet/)
-- [:octocat: `Bliss Browser J#`](https://github.com/seanpm2001/Bliss_Browser_JSharp/)
+- [:octocat: `Bliss Browser JSS`](https://github.com/seanpm2001/Bliss_Browser_JSSS/)
 - [:octocat: `Bliss Browser JavaScript++`](https://github.com/seanpm2001/Bliss_Browser_JavaScript-Plus-Plus/)
 
 ### K
@@ -85,11 +86,14 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 
 - [:octocat: `Bliss Browser Less`](https://github.com/seanpm2001/Bliss_Browser_Less/)
 - [:octocat: `Bliss Browser Liquid`](https://github.com/seanpm2001/Bliss_Browser_Liquid/)
+- [:octocat: `Bliss Browser LiveCode`](https://github.com/seanpm2001/Bliss_Browser_LiveCode/)
 - [:octocat: `Bliss Browser LiveScript`](https://github.com/seanpm2001/Bliss_Browser_LiveScript/)
+- [:octocat: `Bliss Browser LOLCODE`](https://github.com/seanpm2001/Bliss_Browser_LOLCODE/)
 
 ### M
 
 - [:octocat: `Bliss Browser Mako`](https://github.com/seanpm2001/Bliss_Browser_Mako/)
+- [:octocat: `Bliss Browser Mallard`](https://github.com/seanpm2001/Bliss_Browser_Mallard/)
 - [:octocat: `Bliss Browser MediaWiki (WikiText)`](https://github.com/seanpm2001/Bliss_Browser_MediaWiki/)
 - [:octocat: `Bliss Browser Markdown`](https://github.com/seanpm2001/Bliss_Browser_Markdown/)
 - [:octocat: `Bliss Browser Metal`](https://github.com/seanpm2001/Bliss_Browser_Metal/)
@@ -174,11 +178,11 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 
 > **Note** **This list is incomplete**
 
-**Statistics (as of 2023, Friday, February 24th at 7:29 pm PST)**
+**Statistics (as of 2023, Saturday, February 25th at 10:44 pm PST)**
 
 - **Populated section count:** `20`
 - **Empty section count:** `6`
-- **Total languages listed:** `77`
+- **Total languages listed:** `81`
 
 ***
 
@@ -188,9 +192,9 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `18 (2023, Friday, February 24th at 7:29 pm PST)`
+**File version:** `19 (2023, Saturday, February 25th at 10:44 pm PST)`
 
-**Line count (including blank lines and compiler line):** `597`
+**Line count (including blank lines and compiler line):** `621`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -582,6 +586,26 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 18
 - [ ] No other changes in version 18
+
+</details>
+
+<details><summary><p><b>Version 19 (2023, Saturday, February 25th at 10:44 pm PST)</b></p></summary>
+
+- This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] Updated the `Language support` section
+- - [x] Updated the `J` subsection to include JSSS
+- - [x] Updated the `L` subsection to include LiveCode and LOLCODE
+- - [x] Updated the `M` subsection to include Mallard
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 19
+- [ ] No other changes in version 19
 
 </details>
 
