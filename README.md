@@ -39,6 +39,7 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 
 ### E
 
+- [:octocat: `Bliss Browser Earthly`](https://github.com/seanpm2001/Bliss_Browser_Earthly/)
 - [:octocat: `Bliss Browser ECMAScript`](https://github.com/seanpm2001/Bliss_Browser_ECMAScript/)
 - [:octocat: `Bliss Browser Elm`](https://github.com/seanpm2001/Bliss_Browser_Elm/)
 
@@ -101,6 +102,7 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 
 ### N
 
+- [:octocat: `Bliss Browser NetREXX`](https://github.com/seanpm2001/Bliss_Browser_NetREXX/)
 - [:octocat: `Bliss Browser NGinx`](https://github.com/seanpm2001/Bliss_Browser_NGinx/)
 - [:octocat: `Bliss Browser Nunjucks`](https://github.com/seanpm2001/Bliss_Browser_Nunjucks/)
 
@@ -137,6 +139,7 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 - [:octocat: `Bliss Browser SASS`](https://github.com/seanpm2001/Bliss_Browser_SASS/)
 - [:octocat: `Bliss Browser SCSS`](https://github.com/seanpm2001/Bliss_Browser_SCSS/)
 - [:octocat: `Bliss Browser SGML`](https://github.com/seanpm2001/Bliss_Browser_SGML/)
+- [:octocat: `Bliss Browser Singularity`](https://github.com/seanpm2001/Bliss_Browser_Singularity/)
 - [:octocat: `Bliss Browser Slim`](https://github.com/seanpm2001/Bliss_Browser_Slim/)
 - [:octocat: `Bliss Browser Smarty`](https://github.com/seanpm2001/Bliss_Browser_Smarty/)
 - [:octocat: `Bliss Browser StrictYAML`](https://github.com/seanpm2001/Bliss_Browser_StrictYAML/)
@@ -160,6 +163,7 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 ### W
 
 - [:octocat: `Bliss Browser WebAssembly`](https://github.com/seanpm2001/Bliss_Browser_WebAssembly/)
+- [:octocat: `Bliss Browser WebVTT`](https://github.com/seanpm2001/Bliss_Browser_WebVTT/)
 
 ### X
 
@@ -178,11 +182,11 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 
 > **Note** **This list is incomplete**
 
-**Statistics (as of 2023, Saturday, February 25th at 10:44 pm PST)**
+**Statistics (as of 2023, Sunday, February 26th at 9:00 pm PST)**
 
 - **Populated section count:** `20`
 - **Empty section count:** `6`
-- **Total languages listed:** `81`
+- **Total languages listed:** `87`
 
 ***
 
@@ -192,9 +196,9 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `19 (2023, Saturday, February 25th at 10:44 pm PST)`
+**File version:** `20 (2023, Sunday, February 26th at 9:00 pm PST)`
 
-**Line count (including blank lines and compiler line):** `621`
+**Line count (including blank lines and compiler line):** `646`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -606,6 +610,27 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 19
 - [ ] No other changes in version 19
+
+</details>
+
+<details><summary><p><b>Version 20 (2023, Sunday, February 26th at 9:00 pm PST)</b></p></summary>
+
+- This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] Updated the `Language support` section
+- - [x] Updated the `E` subsection to include Earthly
+- - [x] Updated the `N` subsection to include NetREXX
+- - [x] Updated the `S` subsection to include Singularity
+- - [x] Updated the `W` subsection to include WebVTT
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 20
+- [ ] No other changes in version 20
 
 </details>
 
