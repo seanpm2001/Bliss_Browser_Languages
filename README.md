@@ -14,6 +14,7 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 - [:octocat: `Bliss Browser Action Server Pages .NET (ASP.NET)`](https://github.com/seanpm2001/Bliss_Browser_ActionServerPagesDotNET/)
 - [:octocat: `Bliss Browser Astro`](https://github.com/seanpm2001/Bliss_Browser_Astro/)
 - [:octocat: `Bliss Browser AngelScript`](https://github.com/seanpm2001/Bliss_Browser_AngelScript/)
+- [:octocat: `Bliss Browser Antlers`](https://github.com/seanpm2001/Bliss_Browser_Antlers/)
 - [:octocat: `Bliss Browser AssemblyScript`](https://github.com/seanpm2001/Bliss_Browser_AssemblyScript/)
 
 ### B
@@ -51,6 +52,7 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 
 - [:octocat: `Bliss Browser Gherkin`](https://github.com/seanpm2001/Bliss_Browser_Gherkin/)
 - [:octocat: `Bliss Browser Google Apps Script`](https://github.com/seanpm2001/Bliss_Browser_Google-Apps-Script/)
+- [:octocat: `Bliss Browser Gleam`](https://github.com/seanpm2001/Bliss_Browser_Gleam/)
 
 ### H
 
@@ -140,6 +142,7 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 - [:octocat: `Bliss Browser SCSS`](https://github.com/seanpm2001/Bliss_Browser_SCSS/)
 - [:octocat: `Bliss Browser SGML`](https://github.com/seanpm2001/Bliss_Browser_SGML/)
 - [:octocat: `Bliss Browser Singularity`](https://github.com/seanpm2001/Bliss_Browser_Singularity/)
+- [:octocat: `Bliss Browser Slash`](https://github.com/seanpm2001/Bliss_Browser_Slash/)
 - [:octocat: `Bliss Browser Slim`](https://github.com/seanpm2001/Bliss_Browser_Slim/)
 - [:octocat: `Bliss Browser Smarty`](https://github.com/seanpm2001/Bliss_Browser_Smarty/)
 - [:octocat: `Bliss Browser StrictYAML`](https://github.com/seanpm2001/Bliss_Browser_StrictYAML/)
@@ -168,6 +171,7 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 ### X
 
 - [:octocat: `Bliss Browser XML`](https://github.com/seanpm2001/Bliss_Browser_XML/)
+- [:octocat: `Bliss Browser XS`](https://github.com/seanpm2001/Bliss_Browser_XS/)
 - [:octocat: `Bliss Browser XUL`](https://github.com/seanpm2001/Bliss_Browser_XUL/)
 
 ### Y
@@ -182,11 +186,11 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 
 > **Note** **This list is incomplete**
 
-**Statistics (as of 2023, Sunday, February 26th at 9:00 pm PST)**
+**Statistics (as of 2023, MOnday, February 27th at 10:48 pm PST)**
 
 - **Populated section count:** `20`
 - **Empty section count:** `6`
-- **Total languages listed:** `87`
+- **Total languages listed:** `93`
 
 ***
 
@@ -196,9 +200,9 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `20 (2023, Sunday, February 26th at 9:00 pm PST)`
+**File version:** `21 (2023, Monday, February 27th at 10:48 pm PST)`
 
-**Line count (including blank lines and compiler line):** `646`
+**Line count (including blank lines and compiler line):** `671`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -631,6 +635,27 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 20
 - [ ] No other changes in version 20
+
+</details>
+
+<details><summary><p><b>Version 21 (2023, Monday, February 27th at 10:48 pm PST)</b></p></summary>
+
+- This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] Updated the `Language support` section
+- - [x] Updated the `A` subsection to include Antlers
+- - [x] Updated the `G` subsection to include Gleam
+- - [x] Updated the `S` subsection to include Slash
+- - [x] Updated the `X` subsection to include XS
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 21
+- [ ] No other changes in version 21
 
 </details>
 
