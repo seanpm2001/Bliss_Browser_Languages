@@ -37,6 +37,7 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 ### D
 
 - [:octocat: `Bliss Browser Dart`](https://github.com/seanpm2001/Bliss_Browser_Dart/)
+- [:octocat: `Bliss Browser DogeScript`](https://github.com/seanpm2001/Bliss_Browser_DogeScript/)
 
 ### E
 
@@ -186,11 +187,11 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 
 > **Note** **This list is incomplete**
 
-**Statistics (as of 2023, MOnday, February 27th at 10:48 pm PST)**
+**Statistics (as of 2023, Tuesday, February 28th at 2:37 pm PST)**
 
 - **Populated section count:** `20`
 - **Empty section count:** `6`
-- **Total languages listed:** `93`
+- **Total languages listed:** `94`
 
 ***
 
@@ -200,9 +201,9 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `21 (2023, Monday, February 27th at 10:48 pm PST)`
+**File version:** `22 (2023, Tuesday, February 28th at 2:37 pm PST)`
 
-**Line count (including blank lines and compiler line):** `671`
+**Line count (including blank lines and compiler line):** `692`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -656,6 +657,26 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 21
 - [ ] No other changes in version 21
+
+</details>
+
+<details><summary><p><b>Version 22 (2023, Tuesday, February 28th at 2:37 pm PST)</b></p></summary>
+
+> **Note** There were some issues with scheduling, 4 duplicates were in my calendar. I added 1 new language, but decided to skip 3 today, so I could have a break. This update only contains 1 new entry, instead of the usual amount of 4. Things will return to normal tomorrow.
+
+- This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] Updated the `Language support` section
+- - [x] Updated the `D` subsection to include DogeScript
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 22
+- [ ] No other changes in version 22
 
 </details>
 
