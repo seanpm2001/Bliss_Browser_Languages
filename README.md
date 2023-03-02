@@ -30,6 +30,8 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 - [:octocat: `Bliss Browser CartoCSS`](https://github.com/seanpm2001/Bliss_Browser_CartoCSS/)
 - [:octocat: `Bliss Browser Clojure`](https://github.com/seanpm2001/Bliss_Browser_Clojure/)
 - [:octocat: `Bliss Browser CoffeeScript`](https://github.com/seanpm2001/Bliss_Browser_CoffeeScript/)
+- [:octocat: `Bliss Browser ColdFusion`](https://github.com/seanpm2001/Bliss_Browser_ColdFusion/)
+- [:octocat: `Bliss Browser ColdFusion CFC`](https://github.com/seanpm2001/Bliss_Browser_ColdFusion-CFC/)
 - [:octocat: `Bliss Browser Crystal`](https://github.com/seanpm2001/Bliss_Browser_Crystal/)
 - [:octocat: `Bliss Browser CSS`](https://github.com/seanpm2001/Bliss_Browser_CSS/)
 - [:octocat: `Bliss Browser CSV`](https://github.com/seanpm2001/Bliss_Browser_CSV/)
@@ -115,8 +117,6 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 
 ### P
 
-<!-- Pod6 when? (It has been planned, this note will be removed the next time I come across the P section) !-->
-
 - [:octocat: `Bliss Browser PEG.js`](https://github.com/seanpm2001/Bliss_Browser_Peg.js/)
 - [:octocat: `Bliss Browser PHP`](https://github.com/seanpm2001/Bliss_Browser_PHP/)
 - [:octocat: `Bliss Browser Pod`](https://github.com/seanpm2001/Bliss_Browser_Pod/)
@@ -147,6 +147,7 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 - [:octocat: `Bliss Browser Slim`](https://github.com/seanpm2001/Bliss_Browser_Slim/)
 - [:octocat: `Bliss Browser Smarty`](https://github.com/seanpm2001/Bliss_Browser_Smarty/)
 - [:octocat: `Bliss Browser StrictYAML`](https://github.com/seanpm2001/Bliss_Browser_StrictYAML/)
+- [:octocat: `Bliss Browser SugarSS`](https://github.com/seanpm2001/Bliss_Browser_SugarSS/)
 - [:octocat: `Bliss Browser Svelte`](https://github.com/seanpm2001/Bliss_Browser_Svelte/)
 
 ### T
@@ -167,6 +168,7 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 ### W
 
 - [:octocat: `Bliss Browser WebAssembly`](https://github.com/seanpm2001/Bliss_Browser_WebAssembly/)
+- [:octocat: `Bliss Browser WebIDL`](https://github.com/seanpm2001/Bliss_Browser_WebIDL/)
 - [:octocat: `Bliss Browser WebVTT`](https://github.com/seanpm2001/Bliss_Browser_WebVTT/)
 
 ### X
@@ -187,11 +189,11 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 
 > **Note** **This list is incomplete**
 
-**Statistics (as of 2023, Tuesday, February 28th at 2:37 pm PST)**
+**Statistics (as of 2023, Wednesday, March 1st at 10:59 pm PST)**
 
 - **Populated section count:** `20`
 - **Empty section count:** `6`
-- **Total languages listed:** `94`
+- **Total languages listed:** `98`
 
 ***
 
@@ -201,9 +203,9 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `22 (2023, Tuesday, February 28th at 2:37 pm PST)`
+**File version:** `23 (2023, Wednesday, March 1st at 10:59 pm PST)`
 
-**Line count (including blank lines and compiler line):** `692`
+**Line count (including blank lines and compiler line):** `717`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -679,6 +681,29 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 - [ ] No other changes in version 22
 
 </details>
+
+<details><summary><p><b>Version 23 (2023, Wednesday, March 1st at 10:59 pm PST)</b></p></summary>
+
+> **Note** Back to normal today, although the supply of languages is running very low, and will run out by the end of the week.
+
+- This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] Updated the `Language support` section
+- - [x] Updated the `C` subsection to include ColdFusion and ColdFusion CFC
+- - [x] Updated the `S` subsection to include SugarSS
+- - [x] Updated the `W` subsection to include WebIDL
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 23
+- [ ] No other changes in version 23
+
+</details>
+
 
 </details>
 
