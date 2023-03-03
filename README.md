@@ -24,6 +24,7 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 - [:octocat: `Bliss Browser Bikeshed`](https://github.com/seanpm2001/Bliss_Browser_Bikeshed/)
 - [:octocat: `Bliss Browser BrightScript`](https://github.com/seanpm2001/Bliss_Browser_BrightScript/)
 - [:octocat: `Bliss Browser BrighterScript`](https://github.com/seanpm2001/Bliss_Browser_BrighterScript/)
+- [:octocat: `Bliss Browser Bro`](https://github.com/seanpm2001/Bliss_Browser_Bro/)
 
 ### C
 
@@ -121,6 +122,7 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 - [:octocat: `Bliss Browser PHP`](https://github.com/seanpm2001/Bliss_Browser_PHP/)
 - [:octocat: `Bliss Browser Pod`](https://github.com/seanpm2001/Bliss_Browser_Pod/)
 - [:octocat: `Bliss Browser Processing.js`](https://github.com/seanpm2001/Bliss_Browser_Processing.js/)
+- [:octocat: `Bliss Browser ProtoBuf/Protocol Buffer`](https://github.com/seanpm2001/Bliss_Browser_ProtoBuf/)
 - [:octocat: `Bliss Browser Pug`](https://github.com/seanpm2001/Bliss_Browser_Pug/)
 - [:octocat: `Bliss Browser PureScript`](https://github.com/seanpm2001/Bliss_Browser_PureScript/)
 
@@ -183,17 +185,17 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 
 ### Z
 
-- **This section is currently empty**
+- [:octocat: `Bliss Browser Zeek`](https://github.com/seanpm2001/Bliss_Browser_Zeek/)
 
 ***
 
 > **Note** **This list is incomplete**
 
-**Statistics (as of 2023, Wednesday, March 1st at 10:59 pm PST)**
+**Statistics (as of 2023, Thursday, March 2nd at 6:20 pm PST)**
 
-- **Populated section count:** `20`
-- **Empty section count:** `6`
-- **Total languages listed:** `98`
+- **Populated section count:** `21`
+- **Empty section count:** `5`
+- **Total languages listed:** `101` or `99` (recount needed)
 
 ***
 
@@ -203,9 +205,9 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `23 (2023, Wednesday, March 1st at 10:59 pm PST)`
+**File version:** `24 (2023, Thursday, March 2nd at 6:20 pm PST)`
 
-**Line count (including blank lines and compiler line):** `717`
+**Line count (including blank lines and compiler line):** `740`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -704,6 +706,27 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 
 </details>
 
+<details><summary><p><b>Version 24 (2023, Thursday, March 2nd at 6:20 pm PST)</b></p></summary>
+
+> **Note** The last day of consecutive development (for now)
+
+- This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] Updated the `Language support` section
+- - [x] Updated the `B` subsection to include Bro
+- - [x] Updated the `P` subsection to include Protocol Buffer
+- - [x] Updated the `Z` subsection to include Zeek
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 24
+- [ ] No other changes in version 24
+
+</details>
 
 </details>
 
