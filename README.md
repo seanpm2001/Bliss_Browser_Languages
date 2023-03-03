@@ -132,6 +132,7 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 
 ### R
 
+- [:octocat: `Bliss Browser RAML`](https://github.com/seanpm2001/Bliss_Browser_RAML/)
 - [:octocat: `Bliss Browser Reason`](https://github.com/seanpm2001/Bliss_Browser_Reason/)
 - [:octocat: `Bliss Browser ReasonML`](https://github.com/seanpm2001/Bliss_Browser_ReasonML/)
 - [:octocat: `Bliss Browser reStructuredText`](https://github.com/seanpm2001/Bliss_Browser_reStructuredText/)
@@ -191,11 +192,12 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 
 > **Note** **This list is incomplete**
 
-**Statistics (as of 2023, Thursday, March 2nd at 6:20 pm PST)**
+**Statistics (as of 2023, Friday, March 3rd at 2:51 pm PST)**
 
+- **Total section count:** `26`
 - **Populated section count:** `21`
 - **Empty section count:** `5`
-- **Total languages listed:** `101` or `99` (recount needed)
+- **Total languages listed:** `98` (**last confirmed check:** `2023, Friday, March 3rd`)
 
 ***
 
@@ -205,9 +207,9 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `24 (2023, Thursday, March 2nd at 6:20 pm PST)`
+**File version:** `25 (2023, Friday, March 3rd at 2:51 pm PST)`
 
-**Line count (including blank lines and compiler line):** `740`
+**Line count (including blank lines and compiler line):** `762`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -666,7 +668,7 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 
 <details><summary><p><b>Version 22 (2023, Tuesday, February 28th at 2:37 pm PST)</b></p></summary>
 
-> **Note** There were some issues with scheduling, 4 duplicates were in my calendar. I added 1 new language, but decided to skip 3 today, so I could have a break. This update only contains 1 new entry, instead of the usual amount of 4. Things will return to normal tomorrow.
+> **Note** _There were some issues with scheduling, 4 duplicates were in my calendar. I added 1 new language, but decided to skip 3 today, so I could have a break. This update only contains 1 new entry, instead of the usual amount of 4. Things will return to normal tomorrow._
 
 - This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
@@ -686,7 +688,7 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 
 <details><summary><p><b>Version 23 (2023, Wednesday, March 1st at 10:59 pm PST)</b></p></summary>
 
-> **Note** Back to normal today, although the supply of languages is running very low, and will run out by the end of the week.
+> **Note** _Back to normal today, although the supply of languages is running very low, and will run out by the end of the week._
 
 - This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
@@ -708,7 +710,7 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 
 <details><summary><p><b>Version 24 (2023, Thursday, March 2nd at 6:20 pm PST)</b></p></summary>
 
-> **Note** The last day of consecutive development (for now)
+> **Note** _The last day of consecutive development (for now)_
 
 - This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
@@ -725,6 +727,26 @@ Bliss Browser aims to be a web developers utopian paradise by supporting all the
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 24
 - [ ] No other changes in version 24
+
+</details>
+
+<details><summary><p><b>Version 25 (2023, Friday, March 3rd at 2:51 pm PST)</b></p></summary>
+
+> **Note** _Nevermind on yesterdays comment, this was another consecutive day of development. I had 1 more entry, and found that my calendar had an open slot, so I added a 98th entry today, although I really felt like it should have been 100. This is likely the last consecutive day of development for now, although things can change._
+
+- This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] Updated the `Language support` section
+- - [x] Updated the `R` subsection to include RAML
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 25
+- [ ] No other changes in version 25
 
 </details>
 
